@@ -6,9 +6,9 @@ Created on Thu Oct  3 12:09:48 2024
 @author: chenhsuan
 """
 from __future__ import print_function 
-from bytemaps import sys
-from bytemaps import Dataset
-from bytemaps import Verify
+from read_data.bytemaps import sys
+from read_data.bytemaps import Dataset
+from read_data.bytemaps import Verify
 
 
 class GMIdaily(Dataset):
