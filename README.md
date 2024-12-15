@@ -25,7 +25,22 @@ OISST
 
 TRMM  
 *sign in needed*  
-[https://disc.gsfc.nasa.gov/datasets?keywords=TRMM&page=1]
+[https://disc.gsfc.nasa.gov/datasets?keywords=TRMM&page=1]  
     V7 [https://disc.gsfc.nasa.gov/datasets/TRMM_3B42_7/summary?keywords=TRMM_3B42]  
     Daily [https://disc.gsfc.nasa.gov/datasets/TRMM_3B42_Daily_7/summary?keywords=TRMM_3B42]  
+
+
+ASCAT  
+[https://disc.gsfc.nasa.gov/datasets/TRMM_3B42_7/summary?keywords=TRMM_3B42]
+
+WindSat  
+[https://data.remss.com/windsat/bmaps_v07.0.1/]  
+
+QuikSCAT  
+[https://data.remss.com/qscat/]
+
+
+
+
+
 
