@@ -25,9 +25,9 @@
 #   if you need help with this python read code, contact support@remss.com
 
 
-from bytemaps import sys
-from bytemaps import Dataset
-from bytemaps import Verify
+from read_data.bytemaps import sys
+from read_data.bytemaps import Dataset
+from read_data.bytemaps import Verify
 
 
 class WindSatDaily(Dataset):

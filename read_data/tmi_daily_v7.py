@@ -25,11 +25,11 @@
 #   if you need help with this python read code, contact support@remss.com
 
 from __future__ import print_function 
-from bytemaps import sys
-from bytemaps import Dataset
-from bytemaps import Verify
+from read_data.bytemaps import sys
+from read_data.bytemaps import Dataset
+from read_data.bytemaps import Verify
 
-from bytemaps import _get_latitude
+from read_data.bytemaps import _get_latitude
 
 
 class TMIdaily(Dataset):

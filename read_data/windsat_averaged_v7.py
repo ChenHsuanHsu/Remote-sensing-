@@ -24,9 +24,9 @@
 #   ice			Is this ice?
 #   nodata		Is there no data
 
-from bytemaps import sys
-from bytemaps import Dataset
-from bytemaps import Verify
+from read_data.bytemaps import sys
+from read_data.bytemaps import Dataset
+from read_data.bytemaps import Verify
 
 
 class WindSatAveraged(Dataset):

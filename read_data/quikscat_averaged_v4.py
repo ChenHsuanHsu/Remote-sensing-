@@ -1,11 +1,11 @@
-from bytemaps import sys
-from bytemaps import Dataset
-from bytemaps import Verify
+from read_data.bytemaps import sys
+from read_data.bytemaps import Dataset
+from read_data.bytemaps import Verify
 
-from bytemaps import get_data
-from bytemaps import ibits
-from bytemaps import is_bad
-from bytemaps import where
+from read_data.bytemaps import get_data
+from read_data.bytemaps import ibits
+from read_data.bytemaps import is_bad
+from read_data.bytemaps import where
 
 
 class QuikScatAveraged(Dataset):
