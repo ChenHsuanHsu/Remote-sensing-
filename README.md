@@ -31,7 +31,7 @@ TRMM
 
 
 ASCAT  
-[https://disc.gsfc.nasa.gov/datasets/TRMM_3B42_7/summary?keywords=TRMM_3B42]
+[https://data.remss.com/ascat/]
 
 WindSat  
 [https://data.remss.com/windsat/bmaps_v07.0.1/]  
