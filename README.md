@@ -21,7 +21,9 @@ AVHRR
 [https://www.ncei.noaa.gov/data/oceans/pathfinder/Version5.3/L3C/]
 
 OISST  
-[https://www.ncei.noaa.gov/products/optimum-interpolation-sst]
+[https://www.ncei.noaa.gov/products/optimum-interpolation-sst] 
+[https://www.remss.com/measurements/sea-surface-temperature/oisst-description/]  
+ASMR, AVHRR, OISST [https://www.ncei.noaa.gov/thredds/catalog/OisstBase/NetCDF/V2.0/AVHRR-AMSR/catalog.html]
 
 TRMM  
 *sign in needed*  
